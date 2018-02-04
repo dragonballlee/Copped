@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Copped</string>
+    <string name="trending">Trending Raffles</string>
+    <string name="view_more">View More ⟩</string>
+    <string name="ending_soon">Ending Soon</string>
+    <string name="recent_wins">Recent Wins</string>
+
+
+</resources>
