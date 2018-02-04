@@ -33,7 +33,7 @@
             android:textSize="16sp"
             android:textAllCaps="true"
             android:textStyle="bold"
-            android:textColor="black"
+            android:textColor="@color/black"
             android:paddingStart="10dp"
             android:gravity="center|start"
             />
@@ -46,7 +46,7 @@
             android:background="@android:color/transparent"
             android:layout_weight="1"
             android:paddingEnd="10dp"
-            android:textColor="black"
+            android:textColor="@color/black"
             android:gravity="center|end"
             />
 
@@ -130,7 +130,7 @@
             android:textAllCaps="true"
             android:gravity="center|start"
             android:textStyle="bold"
-            android:textColor="black"
+            android:textColor="@color/black"
             android:paddingStart="10dp"
             />
 
@@ -142,7 +142,7 @@
             android:background="@android:color/transparent"
             android:gravity="center|end"
             android:layout_weight="1"
-            android:textColor="black"
+            android:textColor="@color/black"
             android:paddingEnd="10dp"
             />
 
@@ -226,7 +226,7 @@
             android:textAllCaps="true"
             android:gravity="center|start"
             android:textStyle="bold"
-            android:textColor="black"
+            android:textColor="@color/black"
             android:paddingStart="10dp"
             />
 
@@ -238,7 +238,7 @@
             android:background="@android:color/transparent"
             android:gravity="center|end"
             android:paddingEnd="10dp"
-            android:textColor="black"
+            android:textColor="@color/black"
             android:layout_weight="1"
             />
 
@@ -330,7 +330,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:scaleType="centerInside"
-            android:background="#E0E0E0"
+            android:background="@color/bottom_bar"
             android:src="@drawable/profile"
             />
 
