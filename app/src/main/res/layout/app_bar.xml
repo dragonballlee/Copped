@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content">
+    android:layout_height="wrap_content"
+    app:theme="@style/CustomToolbarStyle"
+    app:contentInsetLeft="0dp"
+    app:contentInsetStart="0dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"/>
+
+        <ImageView
+            android:id="@+id/tv_header_title"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:paddingTop="7dp"
+            android:paddingBottom="7dp"
+            android:layout_gravity="center"
+            android:layout_weight="8"
+            android:src="@drawable/logo" />
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="end"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:src="@drawable/buy_tickets" />
+
+
+    </LinearLayout>
 
 </android.support.v7.widget.Toolbar>

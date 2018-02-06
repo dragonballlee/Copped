@@ -63,44 +63,66 @@
             android:orientation="horizontal">
 
             <Button
+                android:id="@+id/button2"
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:text="@string/default_trending_count"
+                android:gravity="top|end" />
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                android:text="@string/default_trending_count"
+                android:gravity="top|end"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:text="@string/default_trending_count"
+                android:gravity="top|end"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:text="@string/default_trending_count"
+                android:gravity="top|end"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:text="@string/default_trending_count"
+                android:gravity="top|end"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:text="@string/default_trending_count"
+                android:gravity="top|end"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:text="@string/default_trending_count"
+                android:gravity="top|end"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:text="@string/default_trending_count"
+                android:gravity="top|end"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:text="@string/default_trending_count"
+                android:gravity="top|end"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
-
-            <Button
-                android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:text="@string/default_trending_count"
+                android:gravity="top|end"/>
 
         </LinearLayout>
 
@@ -160,43 +182,63 @@
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:text="@string/default_ending_time"
+                android:gravity="top|end"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:text="@string/default_ending_time"
+                android:gravity="top|end"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:text="@string/default_ending_time"
+                android:gravity="top|end"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:text="@string/default_ending_time"
+                android:gravity="top|end"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:text="@string/default_ending_time"
+                android:gravity="top|end"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:text="@string/default_ending_time"
+                android:gravity="top|end"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:text="@string/default_ending_time"
+                android:gravity="top|end"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:text="@string/default_ending_time"
+                android:gravity="top|end"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:text="@string/default_ending_time"
+                android:gravity="top|end"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:text="@string/default_ending_time"
+                android:gravity="top|end"/>
 
         </LinearLayout>
 
@@ -256,44 +298,66 @@
             android:orientation="horizontal">
 
             <Button
+                android:id="@+id/button4"
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:drawableRight="@drawable/user_icon"
+                android:paddingBottom="90dip" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                android:drawableRight="@drawable/user_icon"
+                android:paddingBottom="90dip" />
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:drawableRight="@drawable/user_icon"
+                android:paddingBottom="90dip"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:drawableRight="@drawable/user_icon"
+                android:paddingBottom="90dip"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:drawableRight="@drawable/user_icon"
+                android:paddingBottom="90dip"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:drawableRight="@drawable/user_icon"
+                android:paddingBottom="90dip"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:drawableRight="@drawable/user_icon"
+                android:paddingBottom="90dip"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:drawableRight="@drawable/user_icon"
+                android:paddingBottom="90dip"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:drawableRight="@drawable/user_icon"
+                android:paddingBottom="90dip"/>
 
             <Button
                 android:layout_width="150dp"
-                android:layout_height="match_parent" />
-
-            <Button
-                android:layout_width="150dp"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:drawableRight="@drawable/user_icon"
+                android:paddingBottom="90dip"/>
 
         </LinearLayout>
 
@@ -323,6 +387,15 @@
             android:scaleType="centerInside"
             android:background="#E0E0E0"
             android:src="@drawable/glass"
+            />
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:scaleType="centerInside"
+            android:background="#E0E0E0"
+            android:src="@drawable/sellbar"
             />
 
         <ImageButton

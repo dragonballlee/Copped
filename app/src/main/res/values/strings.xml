@@ -4,6 +4,8 @@
     <string name="view_more">View More ⟩</string>
     <string name="ending_soon">Ending Soon</string>
     <string name="recent_wins">Recent Wins</string>
-
-
+    <string name="buy_tickets">Buy Tickets</string>
+    <string name="sell_shoes">Sell an Item</string>
+    <string name="default_trending_count">X/Y</string>
+    <string name="default_ending_time">00:00</string>
 </resources>
